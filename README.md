@@ -7,5 +7,7 @@ showing how to use Git and Github together
 This is the example to show difference in files
 
 ## Purpose
+Some more conent
 
 ## Description
+Some more dec content
