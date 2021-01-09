@@ -1,7 +1,7 @@
 # Starter Web Project 
 
 This is the simple wesite for
-showing how to use Git and Github together
+showing how to use Git and Github together.Adding a line to rebasing example.
 
 ## Introduction 
 This is the example to show difference in files
