@@ -13,4 +13,4 @@ Some more conent
 Some more dec content
 ##How to add conent
 
-2021 GIt copyright
+2021 Git copyright
